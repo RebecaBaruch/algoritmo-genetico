@@ -1,6 +1,6 @@
 # Análise dos Resultados
 
-## (Ite b) Eficiência em Termos de Número de Iterações para Convergência:
+## (Item b) Eficiência em Termos de Número de Iterações para Convergência:
 - <b>Algoritmo do Problema 1:<b/><br>
 Média de iterações: aproximadamente 5.6<br>
 
