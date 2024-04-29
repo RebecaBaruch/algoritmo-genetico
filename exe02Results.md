@@ -1,9 +1,9 @@
 # Resultados
 
 ## ALGORITMO 02
-Minimizar 𝑧 = 20 + 𝑥^2 + 𝑦^2 −10 ∗ (cos 2𝜋𝑥 + cos 2𝜋𝑦) e domínio no intervalo [-5, +5]
+Minimizar 𝑧 = 20 + 𝑥^2 + 𝑦^2 −10 ∗ (cos 2𝜋𝑥 + cos 2𝜋𝑦) e domínio no intervalo [-5, +5] <br>
 
-Geração: 1<br>
+Geração: 1 <br>
 Melhor Indivíduo: <br>
 x = 4.6015104252288275,<br>
 y = -2.9232461508588004,<br>
